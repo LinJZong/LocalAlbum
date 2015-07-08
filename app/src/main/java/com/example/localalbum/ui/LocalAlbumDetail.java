@@ -347,7 +347,6 @@ public class LocalAlbumDetail extends BaseActivity implements MatrixImageView.On
             } catch (Exception e) {
                 e.printStackTrace();
             }
-
         }
     };
 }
